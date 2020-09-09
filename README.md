@@ -11,7 +11,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="e10" src="https://avatars0.githubusercontent.com/u/488317?s=400&v=4" />
 
 - 🌱 I’m always learning how to be better at what I do; 
 - 💬 Ask me about anything, I am happy to help;
