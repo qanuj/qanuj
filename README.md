@@ -11,7 +11,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="200px" align="right" alt="e10" src="https://avatars0.githubusercontent.com/u/488317?s=400&v=4" />
+<img width="300px" align="right" alt="e10" src="https://avatars0.githubusercontent.com/u/488317?s=400&v=4" />
 
 - 🌱 I’m always learning how to be better at what I do; 
 - 💬 Ask me about anything, I am happy to help;
@@ -32,7 +32,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/django/django-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/css3/css3.svg"></code>
   <br />
