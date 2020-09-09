@@ -33,8 +33,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/css3/css3.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css3/w3_css3.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
