@@ -1,32 +1,73 @@
-<h2> Hi, I'm Anuj Pandey! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Fullstrack Engineer at <a href="https://e10.in/">e10</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+## Hi, I'm Anuj Pandey, a Developer 🚀 from Mumbai - India.
 
-[![Twitter: qanuj](https://img.shields.io/twitter/follow/qanuj?style=social)](https://twitter.com/qanuj)
-[![Linkedin: qanuj](https://img.shields.io/badge/-qanuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qanuj/)](https://www.linkedin.com/in/qanuj/)
-[![GitHub qanuj](https://img.shields.io/github/followers/qanuj?label=follow&style=social)](https://github.com/qanuj)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/qanuj)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qanuj/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/qanuj2/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a@e10.in)
 
+&nbsp;
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
 
-```javascript
-const anuj = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Ionic, Python, C# ],
-  tools: [React, Redux, Node, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "e10",
-                        speaker: "English",
-                        mentor: "Iolo"
-                      },
- challenge: "Challengin myself to find the next great innovation"
-}
-```
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+- 🌱 I’m always learning how to be better at what I do; 
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I like play cricket when not coding;
+- 📫 How to reach me: a@e10.in;
 
+**Languages and Tools:** 
+
+<p>
+  <a href="https://github.com/qanuj">
+    <img width="55%" align="right" alt="Anuj's github stats" src="https://github-readme-stats.vercel.app/api?username=qanuj&show_icons=true&hide_border=true" />
+  </a>
+  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
+
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<p align="center">
+  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
+  </a>
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=qanuj.qanuj" />
+</p>
+
+## Support me
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
+<p align="center">
+  <a href="https://www.patreon.com/qanuj" target="_blank">
+    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/qanuj" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  </a>
+</p>
 ---
-
-[![qanuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qanuj&show_icons=true)](https://github.com/qanuj)
-
+<!-- This readme was created by Murillo Comino - https://github.com/qanuj -->
+⭐️ From [qanuj](https://github.com/qanuj)
