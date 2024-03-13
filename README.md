@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/qanuj)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qanuj/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/qanuj2/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a@e10.in)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anuj@anuj.co.in)
 
 &nbsp;
 
@@ -11,12 +11,11 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="300px" align="right" alt="e10" src="https://avatars0.githubusercontent.com/u/488317?s=400&v=4" />
 
 - 🌱 I’m always learning how to be better at what I do; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I like play cricket when not coding;
-- 📫 How to reach me: a@e10.in;
+- 📫 How to reach me: anuj@anuj.co.in;
 
 **Languages and Tools:** 
 
