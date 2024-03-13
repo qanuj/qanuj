@@ -15,7 +15,7 @@
 - 🌱 I’m always learning how to be better at what I do; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I like play cricket when not coding;
-- 📫 How to reach me: anuj@anuj.co.in;
+- 📫 How to reach me: anuj@anujpandey.com;
 
 **Languages and Tools:** 
 
