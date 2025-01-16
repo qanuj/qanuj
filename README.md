@@ -64,17 +64,6 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <a href="http://hits.dwyl.com/qanuj/qanuj" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/qanuj/qanuj.svg" />
-  </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=qanuj.qanuj" />
-</p>
-
 ## Support me
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
