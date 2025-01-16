@@ -1,4 +1,4 @@
-## Hi, I'm Anuj Pandey, a Developer 🚀 from Mumbai - India.
+## Hi, I'm Anuj Pandey, a Engineer who bowls swing 🚀 from Mumbai - India.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/qanuj)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qanuj/)
@@ -12,10 +12,18 @@
 
 <!-- Any image aligned to the right. Beware the width -->
 
-- 🌱 I’m always learning how to be better at what I do; 
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I like play cricket when not coding;
-- 📫 How to reach me: anuj@anujpandey.com;
+- 🌱 I’m passionate about building and managing products that solve real-world problems.  
+- 💬 Ask me about product development, agile methodologies, or technology trends; I’m happy to help.  
+- ⚡️ Fun-Fact: When I’m not leading projects, you’ll find me hitting sixes on the cricket pitch.  
+- 📫 How to reach me: [anuj@anujpandey.com](mailto:anuj@anujpandey.com)  
+
+### **Personal Highlights**
+
+- 🔄 **Bridge Between Teams**: Skilled in managing the intersection of engineering, design, and business.  
+- 🚀 **Delivery-Oriented**: I focus on taking ideas from concept to launch with minimal friction.  
+- 🎯 **Customer-Centric Approach**: Continuously aligning product features with user needs.  
+
+---
 
 **Languages and Tools:** 
 
