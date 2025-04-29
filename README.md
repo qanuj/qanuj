@@ -36,7 +36,6 @@ With over 15 years of experience, I specialize in building scalable, secure, and
 - **SHIB Developer Portal:** Built SDKs, metadata APIs, and onboarding tools  
 - **Sphere Finance:** DeFi protocol with CDP mechanics & boosted yield strategies  
 - **DODO:** PMM-powered DEX with $137B+ trading volume  
-- **D3fenders:** Web3 security vault for wallet drain protection across EVM & Solana
 
 ---
 
